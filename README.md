@@ -1,6 +1,6 @@
 # Dynopedia
 
-1. **Tematyka projektu**
+## 1. **Tematyka projektu**
 Interaktywna aplikacja internetowa związana z tematyką dinozaurów. Projekt łączy bazę wiedzy o prehistorycznych stworzeniach i elementy rozrywkowe (m.in. gra "wykopaliska", zakładki filmowe).
 
    1.1. **Przewidziane technologie**
@@ -8,7 +8,7 @@ Interaktywna aplikacja internetowa związana z tematyką dinozaurów. Projekt ł
    * **BACKEND:** OAuth (logowanie), Firebase (dane)
    * **DODATKOWE:** Figma (projektowanie)
 
-2. **Użycie aplikacji**
+## 2. **Użycie aplikacji**
    2.1. **Program rozwoju intelektualnego:** Cyfrowa encyklopedia paleontologiczna, intuicyjne przeglądanie bazy danych, zapoznanie z erą, w której żyły dinozaury (też określone epoki). Poznawanie jak wyglądały i funkcjonowały.
    2.2. **Interaktywna gra:** Gra "Wykopaliska" pozwalająca użytkownikom na odkrywanie skamielin za pomocą interakcji z interfejsem po czym przenosi ich na stronę odkrytego dinozaura.
    2.3. **Reklama muzeów, parków i filmów:** Specjalna zakładka poświęcona filmom (przyrodniczym, dokumentalnym i rozrywkowym), reklamy muzeów i parków turystycznych lub przyrodniczych zachęcających do pogłębiania swojej wiedzy.
