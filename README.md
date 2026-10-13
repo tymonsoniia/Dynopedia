@@ -22,4 +22,9 @@ Interaktywna aplikacja internetowa związana z tematyką dinozaurów. Projekt ł
 | **Kluczowe zasoby** :<br>• Baza danych<br>• Serwer<br>• Programistów | **Kanały** :<br>• Aplikacja internetowa<br>• Media społecznościowe<br>• Promocja w muzeach? |
 | **Struktura kosztów** :<br>• Utrzymanie serwera<br>• Koszty związane z pracownikami | **Struktura przychodów** :<br>• Reklamy i współpraca muzeów, filmów (przyrodniczych, dokumentalnych, rozrywkowych), parków rozrywki |
 
-![Dynopedia Dinosaur]
+## 4. Dyskusja nad prototypem:
+W projekcie Dynopedia zastosowano prototypowanie z porzuceniem (prototyp jednorazowy).
+
+Uzasadnienie:
+Stworzone makiety wizualne służą wyłącznie do przedstawienia koncepcji, rozplanowania elementów interfejsu (UI/UX) oraz zebrania informacji zwrotnej od użytkowników i zespołu. Po zatwierdzeniu ostatecznego wyglądu i funkcjonalności (np. mechaniki wykopalisk czy układu sekcji filmowej), właściwa aplikacja zostanie napisana od zera, co zapewni czystą strukturę kodu i optymalną wydajność.
+
